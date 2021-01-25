@@ -12,7 +12,7 @@
 <p> The data used was scraped from Sephora's webpage. There was 500 moisturizes and I was able to scrape data for 400. </p>
 
 ### Tools Used (e.g., Scrapy, Seaborn, etc.): 
-<p> Tools used included Python, Selenium, Beautiful Soup, Pandas, Numpy, Seaborn, Matplotlib, JSON, Jupyter notebook, and Keynote.  </p>
+<p> Tools used included Python, Selenium, Beautiful Soup, Pandas, Numpy, SKLearn, One Hot Encoder, Seaborn, Matplotlib, JSON, Jupyter notebook, and Keynote.  </p>
 
 ### Possible impacts of your project: 
 <p> The possible impacts include companies creating products using features that increase user ratings and potentially Sephora streamlining the webite to include only the information that the user finds important. </p>
