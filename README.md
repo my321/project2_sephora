@@ -9,7 +9,7 @@
 <p> The target variable is the user rating for each product. The feature variables include the brand, the type of skin the product is intended for, the type of formulation of the product, cruelty-free product, vegan product, product has recyclable packaging, product is "Clean at Sephora", prize, and size in ounces. </p>
 
 ### Data Used (e.g., NYC Open Data): 
-<p> Data used was scraped from Sephora's webpage. There was 500 moisturizes and I was able to scrape data for 400. </p>
+<p> The data used was scraped from Sephora's webpage. There was 500 moisturizes and I was able to scrape data for 400. </p>
 
 ### Tools Used (e.g., Scrapy, Seaborn, etc.): 
 <p> Tools used included Python, Selenium, Beautiful Soup, Pandas, Numpy, Seaborn, Matplotlib, Jupyter notebook, and Keynote.  </p>
