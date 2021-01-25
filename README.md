@@ -1,1 +1,2 @@
-# Sephora
+# Project 2 
+# Goal 
